@@ -111,6 +111,7 @@ public class Helper {
 			System.out.println(list.get(id));
 		}
 	}
+	// DELETE METHOD
 	public void deleteRecord()
 	{
 		int id;
