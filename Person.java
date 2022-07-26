@@ -64,11 +64,11 @@ public class Person {
 		this.state = state;
 	}
 
-	public String getzip() {
+	public String getZip() {
 		return zip;
 	}
 
-	public void setzip(String zip) {
+	public void setZip(String zip) {
 		this.zip = zip;
 	}
 
