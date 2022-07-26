@@ -25,11 +25,11 @@ public class AddressBook {
                     help.displayRecord();
                     break;
                 case 3 :
-    				help.editRecord();
-    				break;
+    		    help.editRecord();
+    		    break;
                 case 4:
-    				help.deleteRecord();
-    				break;
+    		    help.deleteRecord();
+    		    break;
                 case 5 :
                     i=1;
                     break;
